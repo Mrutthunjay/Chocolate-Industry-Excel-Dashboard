@@ -57,7 +57,7 @@ The dashboard allows users to:
 ## 📂 Project Files
 
 - `Chocolate_Industry_Sales_Dashboard.xlsx` – Excel dashboard and data
-- `dashboard-preview.png` – Dashboard preview
+-<"https://github.com/Mrutthunjay/Chocolate-Industry-Excel-Dashboard/blob/main/dashboard-preview.png – Dashboard preview
 
 ## Conclusion
 
