@@ -59,6 +59,10 @@ The dashboard allows users to:
 - `Chocolate_Industry_Sales_Dashboard.xlsx` – Excel dashboard and data
 - `dashboard-preview.png` – Dashboard preview
 
+## Conclusion
+
+This Chocolate Industry Dashboard provides a clear overview of sales and profitability across different countries, products, months, and quarters. The analysis helps identify top-performing products and markets while highlighting revenue and profit trends. The interactive filters make it easier to explore the data and support data-driven business decisions. Overall, the project demonstrates practical skills in Microsoft Excel, data analysis, data visualization, and dashboard development.
+
 ## 👨‍💻 Author
 
 **Mrutthunjay**
